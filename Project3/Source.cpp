@@ -98,5 +98,6 @@ int main()
 	{
 		XuatThongTinSV(sv, i);
 	}
+	jdghkjdhj
 	_getch();
 }
