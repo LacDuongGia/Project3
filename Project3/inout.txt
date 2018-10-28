@@ -1,0 +1,4 @@
+1 DuongGiaLac 10 4 6
+2 TranHuuLoc 10 9 7.5
+3 PhamDoNhatMinh 10 10 9
+4 DuongTuyetAn 3 7.5 9
